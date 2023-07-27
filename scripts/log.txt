@@ -1,0 +1,3 @@
+Installed chaincodes on peer:
+Package ID: birthcert_1:a181e499f9541a7b1e611ab667a75f0884f73de0d70cd7d9487ddf05ddecb05c, Label: birthcert_1
+Package ID: birthcert_1:d79c929e54dbcfd68be166abe257e0e670fa632bf8b042341f74a9527b25cd19, Label: birthcert_1
